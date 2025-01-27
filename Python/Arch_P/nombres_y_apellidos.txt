@@ -1,0 +1,17 @@
+Los datos son:
+
+Nombre: Jared
+Apellido: Hernandez
+-----------
+Nombre: Alejandro
+Apellido: Figueroa
+-----------
+Nombre: Jose
+Apellido: Curry
+-----------
+Nombre: Adriana
+Apellido: Lopez
+-----------
+Nombre: Berenice
+Apellido: Ramirez
+-----------
